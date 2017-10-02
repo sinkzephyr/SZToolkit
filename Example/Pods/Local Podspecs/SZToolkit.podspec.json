@@ -1,0 +1,22 @@
+{
+  "name": "SZToolkit",
+  "version": "0.1.0",
+  "summary": "A short description of SZToolkit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sinkzephyr/SZToolkit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sinkzephyr": "sinkzephyr@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sinkzephyr/SZToolkit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SZToolkit/Classes/**/*"
+}

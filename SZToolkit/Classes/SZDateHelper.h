@@ -1,5 +1,5 @@
 //
-//  DateHelper.h
+//  SZDateHelper.h
 //  studio
 //
 //  Created by zaker_sink on 2017/7/27.
@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface DateHelper : NSObject
-
+@interface SZDateHelper : NSObject
++(BOOL)test;
 +(NSString*)toTimeText:(NSTimeInterval)timeInterval;
 @end

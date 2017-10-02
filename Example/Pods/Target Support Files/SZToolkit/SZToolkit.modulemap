@@ -1,0 +1,6 @@
+framework module SZToolkit {
+  umbrella header "SZToolkit-umbrella.h"
+
+  export *
+  module * { export * }
+}
